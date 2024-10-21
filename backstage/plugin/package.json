@@ -20,7 +20,7 @@
     "showdown": "^1.9.1",
     "dora-single-spa": "^1.10.0",
     "validator": "^11.1.0",
-    "vue": "^2.6.10",
+    "vue": "^3.0.0",
     "vue-i18n": "^8.14.0",
     "vue-router": "^3.0.3",
     "vue-ueditor-wrap": "^2.4.1",
